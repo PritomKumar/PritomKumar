@@ -1,35 +1,20 @@
-### Hi there, I'm Pritom, Nice to meet you! 👋 
+### Hi there 👋, my name is Pritom
+#### I am a software engineering student.
+![I am a software engineering student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am an avid reader and developer. I am currently building my skills in the realm of web development. Other than that, I really like software development and working on machine learning models. 
+
+Skills: C / C++ / JAVA / PYTHON / JS / HTML / CSS / DART / FLUTTER / JUPYTER NOTEBOOK
+
+- 🔭 I’m currently working on developing my skills. 
+- 🌱 I’m currently learning efficient model building in deep learning. 
+- 👯 I’m looking to collaborate on opensource projects 
+- ⚡ Fun fact: I like to exercise, and read books 
 
 
-## I'm a  Student, and Developer!!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PritomKumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pritomkumar/)  
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with top researchers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and read books
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PritomKumar)  
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pritom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true&hide_border=true" />
-
-</details>
- 
