@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pritom, Nice to meet you!
 #### I am a software engineering student.
-![I am a software engineering student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a software engineering student.]
 
 I am an avid reader and developer. I am currently building my skills in the realm of web development. Other than that, I really like software development and working on machine learning models. 
 
