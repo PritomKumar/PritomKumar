@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pritom
+### Hi there 👋, my name is Pritom, Nice to meet you!
 #### I am a software engineering student.
 ![I am a software engineering student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
