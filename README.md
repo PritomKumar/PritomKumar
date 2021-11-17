@@ -27,17 +27,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Pritom's GitHub Stats" src="https://github-readme-stats.PritomKumar.vercel.app/api?username=PritomKumar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pritom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true&hide_border=true" />
 
 </details>
  
