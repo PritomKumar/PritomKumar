@@ -26,6 +26,16 @@ I am an avid reader and developer. I am currently building my skills in the real
 ![Language](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 
 
+### 📫 Reach me through:  </br>
+[<img alt="pritom-kumar-das | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][mail]
+[<img alt="pritom-kumar-das | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="md-saleh-ibtasham" src="https://img.shields.io/badge/website-000000?style=flat&logoColor=white" />][website]
+
+
+[mail]: mailto:kpritom01@gmail
+[website]: https://sites.google.com/view/pritom-kumar-das/
+[linkedin]: https://www.linkedin.com/in/pritomkumar/
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PritomKumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pritomkumar/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true)  
