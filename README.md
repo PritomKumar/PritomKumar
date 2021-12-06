@@ -35,8 +35,7 @@ I am an avid reader and developer. I am currently building my skills in the real
 [mail]: mailto:kpritom01@gmail
 [website]: https://sites.google.com/view/pritom-kumar-das/
 [linkedin]: https://www.linkedin.com/in/pritomkumar/
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PritomKumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pritomkumar/)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true)  
 
