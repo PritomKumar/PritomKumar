@@ -37,7 +37,7 @@ I am an avid reader and developer. I am currently building my skills in the real
 [linkedin]: https://www.linkedin.com/in/pritomkumar/
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PritomKumar)  
 
