@@ -39,5 +39,8 @@ I am an avid reader and developer. I am currently building my skills in the real
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomKumar&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PritomKumar)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PritomKumar)   -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PritomKumar)](https://git.io/streak-stats)
+
 
