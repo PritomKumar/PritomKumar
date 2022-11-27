@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pritom, Nice to meet you!
-#### I am a software engineering student.
+#### I am a Data Science MS Student at University of Helsinki.
 
-I am an avid reader and developer. I am currently building my skills in the realm of web development. Other than that, I really like software development and working on machine learning models. 
+I am an avid reader and developer. I am currently building my skills in the realm of data science and learning cool new things. Other than that, I really like software development and working on machine learning models. 
 
 - 🔭 I’m currently working on developing my skills. 
 - 🌱 I’m currently learning efficient model building in deep learning. 
