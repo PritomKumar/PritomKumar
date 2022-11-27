@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pritom, Nice to meet you!
-#### I am a Data Science MS Student at University of Helsinki.
+#### I am a Masters Student of Data Science at University of Helsinki.
 
 I am an avid reader and developer. I am currently building my skills in the realm of data science and learning cool new things. Other than that, I really like software development and working on machine learning models. 
 
